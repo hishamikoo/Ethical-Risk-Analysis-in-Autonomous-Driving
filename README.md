@@ -1,6 +1,6 @@
 # 🚗 Ethical Risk Analysis in Autonomous Driving
 
-This paper presents a **comprehensive ethical risk and benefit analysis** of autonomous driving, spanning all levels of automation—**from Level 0 (no automation) to Level 5 (full automation)**—as defined by the **Society of Automotive Engineers (SAE)**.
+This paper presents a **comprehensive ethical risk and benefit analysis** of autonomous driving, spanning all levels of automation, **from Level 0 (no automation) to Level 5 (full automation)**, as defined by the **Society of Automotive Engineers (SAE)**.
 
 As **autonomous vehicles (AVs)** revolutionize transportation, they promise **enhanced road safety, environmental benefits, and a transformed travel experience**. However, they also introduce **complex ethical dilemmas**, from liability concerns to algorithmic biases. This report critically examines both the **potential advantages** and the **ethical challenges** posed by AV technology.
 
