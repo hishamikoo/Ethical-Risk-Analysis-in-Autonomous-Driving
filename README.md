@@ -69,6 +69,3 @@ To ensure **responsible and equitable AV integration**, policymakers, engineers,
 The rise of **autonomous vehicles** presents **groundbreaking opportunities** for safety, efficiency, and environmental sustainability. However, without **strong ethical oversight**, these advancements may introduce **serious risks** that outweigh their benefits. **Striking the right balance** between innovation and ethical responsibility is crucial for the future of AVs.
 
 ---
-
-## **📢 Final Thoughts**
-As the world moves toward full automation, the conversation around **ethics in AI-driven mobility** must remain at the forefront. **How do we ensure AVs make fair, unbiased, and safe decisions?** 🌍🚘
