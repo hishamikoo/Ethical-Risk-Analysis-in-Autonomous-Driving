@@ -4,6 +4,8 @@ This paper presents a **comprehensive ethical risk and benefit analysis** of aut
 
 As **autonomous vehicles (AVs)** revolutionize transportation, they promise **enhanced road safety, environmental benefits, and a transformed travel experience**. However, they also introduce **complex ethical dilemmas**, from liability concerns to algorithmic biases. This report critically examines both the **potential advantages** and the **ethical challenges** posed by AV technology.
 
+📄 [**Full Detailed Report (PDF)**](https://github.com/hishamikoo/Ethical-Risk-Analysis-in-Autonomous-Driving/blob/main/Ethical%20Risk%20Analysis%20in%20Autonomous%20Driving%20-%20Report%20.pdf)
+
 ---
 
 ## ✅ Key Benefits of Autonomous Vehicles
